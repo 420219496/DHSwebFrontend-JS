@@ -30,13 +30,7 @@ Task:  Complete a web effect of medium difficulty by JS.
 
 Task: Using the JQuery to complete a web animation .
 
--
--
--
--
--
--
--
+<br /><br /><br />
 PS : The task is the homework that you should complete after the Lessons.
 
 
