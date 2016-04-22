@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>js</title>
+</head>
+<style type="text/css">
+	body{background-image: url(../js/a8ec8a13632762d01fb5afdda6ec08fa503dc6cd.jpg);}
+	.back{
+		width: 600px;
+		margin: auto;
+
+	}
+	.block1{
+		width: 200px;
+		height: 200px;
+		margin: 20px;
+		float: left;
+		background-color: #ffcc99;
+	}
+	.block2{
+		width: 200px;
+		height: 200px;
+		margin: 20px;
+		float: left;
+		background-color: #1924e9;
+	}
+	.block3{
+		width: 200px;
+		height: 200px;
+		margin: 20px;
+		float: left;
+		background-color: #ed2132;
+	}
+	.block4{
+		width: 200px;
+		height: 200px;
+		margin: 20px;
+		float: left;
+		background-color: #ffaa33;
+	}
+</style>
+<body>
+<div class="back">
+	<div class="block1" id="xiamu" onmouseover="on1()" onmouseout="off1()"></div>
+	<div class="block2" id="saber" onmouseover="on2()" onmouseout="off2()"></div>
+</div>
+<div class="back">
+	<div class="block3" id="jiegeng" onmouseover="on3()" onmouseout="off3()"></div>
+	<div class="block4" id="mai" onmouseover="on4()" onmouseout="off4()"></div>
+</div>
+<script type="text/javascript">
+	function	on1(){
+		var	pic=document.getElementById("xiamu");
+		pic.innerHTML='<img src="../js/20140826113545_jiUcf.jpeg" width="200px" height="200px"/>';
+	}
+	function	off1(){
+		var	pic=document.getElementById("xiamu");
+		pic.innerHTML='';
+	}
+	function	on2(){
+		var	pic=document.getElementById("saber");
+		pic.innerHTML='<img src="../js/20150324205200_5ABZ5.jpeg" width="200px" height="200px"/>';
+	}
+	function	off2(){
+		var	pic=document.getElementById("saber");
+		pic.innerHTML='';
+	}
+	function	on3(){
+		var	pic=document.getElementById("jiegeng");
+		pic.innerHTML='<img src="../js/1dd1fd1f4134970a3a7ad7f890cad1c8a6865dda.jpg" width="200px" height="200px"/>';
+	}
+	function	off3(){
+		var	pic=document.getElementById("jiegeng");
+		pic.innerHTML='';
+	}
+	function	on4(){
+		var	pic=document.getElementById("mai");
+		pic.innerHTML='<img src="../js/20160127092834456.jpg" width="200px" height="200px"/>';
+	}
+	function	off4(){
+		var	pic=document.getElementById("mai");
+		pic.innerHTML='';
+	}
+</script>
+</body>
+</html>
