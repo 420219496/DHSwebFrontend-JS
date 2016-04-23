@@ -12,7 +12,6 @@
 >-    **Navigator** : 浏览器类型、版本、兼容的信息
 
 
-<br><br>
 #DOM的今生
 >###DOM(Document Object Model)
 >它是：
