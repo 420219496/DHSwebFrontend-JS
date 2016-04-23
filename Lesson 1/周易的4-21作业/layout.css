@@ -36,7 +36,7 @@ h2:hover{
 }
 #video-container .dan-mu{
     position: relative;
-    top: 150px;
+    margin: 0;
     left: -500px;
     font-family: "黑体";
     font-weight: bolder;
