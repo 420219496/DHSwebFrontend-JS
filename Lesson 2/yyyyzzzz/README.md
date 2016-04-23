@@ -1,5 +1,5 @@
 #Dom学习笔记#
----
+
 #DOM的前世
 >###DHTML(Dynamic HTML)
 >它是一种HTML/CSS/JS的结合产物，意为动态的HTML，是一种概念。（有时也被称为0级DOM）
