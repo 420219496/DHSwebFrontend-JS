@@ -10,5 +10,5 @@
 ![Alt text](http://www.w3school.com.cn/i/ct_htmltree.gif)
 >
 + HTML DOM 将 HTML 文档视作树结构。这种结构被称为节点树
-+ 节点树中的节点具有层级关系：父（parent）、子（child）和同胞（sibling）等术语用于描述这些关系。父节点拥有子节点。同级的子节点被称为同胞（兄弟或姐妹）。
-![Alt text](![Alt text](http://www.w3school.com.cn/i/dom_navigate.gif)    
++ 节点树中的节点具有层级关系：父（parent）、子（child）和同胞（sibling）等术语用于描述这些关系。父节点拥有子节点。同级的子节点被称为同胞（兄弟或姐妹）。  
+![Alt text](http://www.w3school.com.cn/i/dom_navigate.gif)    
