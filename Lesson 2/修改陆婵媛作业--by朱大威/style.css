@@ -1,0 +1,17 @@
+	body{background-image: url(img/bgimg.jpg);}
+	.back{
+		width: 480px;
+		height: 480px;
+		margin: auto;
+
+	}
+	.block{
+		width: 200px;
+		height: 200px;
+		margin: 20px;
+		float: left;	
+	}
+	#xiamu{background-color: #ffcc99;}
+	#saber{background-color: #1924e9;}
+	#jiegeng{background-color: #ed2132;}
+	#mai{background-color: #ffaa33;}
