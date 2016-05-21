@@ -70,32 +70,3 @@ function firm()
          firm();
      }
 }
-
-
-
-
-
-
- /*           var t=setTimeout("timedCount()",1000);    
-            function timedCount()  {
-                var tim=document.getElementById("hj");
-                var time=tim.innerHTML;
-                document.getElementById("hj").innerHTML = time;
-                if( t !=null && time==0){clearTimeout(t);alert("黄方超时，紫方赢");firm();return;}
-                time--;
-                tim.innerHTML = time;
-                t=setTimeout("timedCount()",1000)
-}    
-//jishiqi  紫方
-var t=setTimeout("timedCount()",1000);    
-function timedCount()  {
-    var tim=document.getElementById("zj");
-    var time=tim.innerHTML;
-    document.getElementById("zj").innerHTML = time;
-    if( t !=null && time==0){clearTimeout(t);alert("紫方超时，黄方赢");firm();return;}
-    time--;
-    tim.innerHTML = time;
-    t=setTimeout("timedCount()",1000)
-}
-    <div class="jishi shake shake-constant" id="hj">10</div>
-    <div class="jishi shake shake-constant" id="zj">10</div>*/
