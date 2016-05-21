@@ -1,0 +1,110 @@
+body{
+	background-color: #f80;
+	padding-top: 100px;
+}
+#all{
+	height: 630px;
+	width: 630px;
+	margin: 0 auto;
+}
+#all div{
+	width: 198px;
+	height: 198px;
+	border-radius:99px;
+    border:1px dashed #000;
+	background-color: #f80;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+form{
+	width: 100px;
+	margin: 0 auto;
+}
+.h{
+	height: 100px;
+	width: 200px;
+	font-family: "微软雅黑";
+	font-size: 3em;
+	text-align: center;
+	line-height: 100px;
+}
+#ph{
+	background-color: #f80;
+	position: absolute;
+	top:200px;
+	right: 300px;
+}
+#yh{
+	background-color: #f80;
+	position: absolute;
+	top: 200px;
+	left:300px;
+}
+#zj{
+	background-color: #f80;
+	position: absolute;
+	top:500px;
+	right: 300px;
+}
+#hj{
+	background-color: #f80;
+	position: absolute;
+	top:500px;
+	left: 300px;
+}
+.jishi{
+	height: 100px;
+	width: 150px;
+	font-family: "微软雅黑";
+	font-size: 2em;
+	text-align: center;
+	line-height: 100px;
+}
+.again{
+  line-height:34px;
+  height:34px;
+  width:84px;
+  color:#ffffff;
+  background-color:#ededed;
+  font-size:16px;
+  font-weight:normal;
+  font-family:Arial;
+  background:-webkit-gradient(linear, left top, left bottom, color-start(0.05, #c62d1f), color-stop(1, #f24437));
+  background:-moz-linear-gradient(top, #c62d1f 5%, #f24437 100%);
+  background:-o-linear-gradient(top, #c62d1f 5%, #f24437 100%);
+  background:-ms-linear-gradient(top, #c62d1f 5%, #f24437 100%);
+  background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+  background:-webkit-linear-gradient(top, #c62d1f 5%, #f24437 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#c62d1f', endColorstr='#f24437',GradientType=0);
+  border:1px solid #d02718;
+  -webkit-border-top-left-radius:18px;
+  -moz-border-radius-topleft:18px;
+  border-top-left-radius:18px;
+  -webkit-border-top-right-radius:18px;
+  -moz-border-radius-topright:18px;
+  border-top-right-radius:18px;
+  -webkit-border-bottom-left-radius:18px;
+  -moz-border-radius-bottomleft:18px;
+  border-bottom-left-radius:18px;
+  -webkit-border-bottom-right-radius:18px;
+  -moz-border-radius-bottomright:18px;
+  border-bottom-right-radius:18px;
+  -moz-box-shadow:3px 4px 0px 0px #8a2a21;
+  -webkit-box-shadow:3px 4px 0px 0px #8a2a21;
+  box-shadow:3px 4px 0px 0px #8a2a21;
+  text-align:center;
+  display:inline-block;
+  text-decoration:none;
+}
+.again:hover{
+  background-color:#f5f5f5;
+  background:-webkit-gradient(linear, left top, left bottom, color-start(0.05, #f24437), color-stop(1, #c62d1f));
+  background:-moz-linear-gradient(top, #f24437 5%, #c62d1f 100%);
+  background:-o-linear-gradient(top, #f24437 5%, #c62d1f 100%);
+  background:-ms-linear-gradient(top, #f24437 5%, #c62d1f 100%);
+  background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+  background:-webkit-linear-gradient(top, #f24437 5%, #c62d1f 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f24437', endColorstr='#c62d1f',GradientType=0);
+}
+/*<input type="button" onclick="location.replace(location.href);" value="再来一局" />*/
